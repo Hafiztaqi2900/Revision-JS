@@ -8,4 +8,5 @@
 
 // alert(5 + 4 + 5)
 //  alert(5 + "4" + 5)
-
+ var playerinfo = "Amir" + 5
+ alert(playerinfo) 
