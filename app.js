@@ -14,3 +14,8 @@
 
 // console.log('Hello My World \n My name is \t Taqi')
 
+// class 49 sae continue krna hae
+var str = "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
+console.log(str)
+var position= str.indexOf('dolor')
+console.log(position)
