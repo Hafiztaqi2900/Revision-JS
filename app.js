@@ -1,4 +1,4 @@
-// console.log('Hello World') 47
+// console.log('Hello World') 48
 // var num1=203;
 // var num2=218;
 
@@ -11,10 +11,9 @@
 // console.log(full)
 // var desc=`My name is ${Name} also my father ${Fname}`
 // console.log(desc)
+// console.log('Hello My World \n My name is \t Taqi')  49
 
-// console.log('Hello My World \n My name is \t Taqi')
-
-// class 49 sae continue krna hae
+// class 50 sae continue krna hae
 var str = "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
 console.log(str)
 var position= str.indexOf('dolor')
