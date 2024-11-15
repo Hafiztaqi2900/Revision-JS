@@ -39,4 +39,15 @@
 // console.log(string3)
 // charAt is used for data konsae number pr hae 
 
-// Class#51 Continue
+// Class#51 Continue krna 
+
+var age=16
+if (age>=18) {
+    console.log("You can drive any kind of vehicle");
+}
+else if(age<=10){
+    console.log("Your age is just 10");
+}
+else{
+    console.log("You cannot drive any kind of vehicle");
+}
