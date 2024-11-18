@@ -1,8 +1,8 @@
 // Class#48
-// console.log('Hello World') 
+// console.log('Hello World')
 // var num1=203;
 // var num2=218;
-// console.log("The value of num1 + num2 is = " + num1+num2) 
+// console.log("The value of num1 + num2 is = " + num1+num2)
 
 // Class#49
 // var Name='Taqi';
@@ -12,9 +12,9 @@
 // console.log(full)
 // var desc=`My name is ${Name} also my father ${Fname}`
 // console.log(desc)
-// console.log('Hello My World \n My name is \t Taqi')  
+// console.log('Hello My World \n My name is \t Taqi')
 
-// class#50 
+// class#50
 // var str = "Lorem ipsum dolor, sit amet consectetur adipisicing elit."
 // console.log(str)
 // var position= str.indexOf('dolor')
@@ -37,17 +37,31 @@
 
 // var string3=replaced.concat(' Also I am A Pakistani')
 // console.log(string3)
-// charAt is used for data konsae number pr hae 
+// charAt is used for data konsae number pr hae
 
-// Class#51 Continue krna 
+// Class#51 
+// var age = 16;
+// if (age >= 18) {
+//   console.log("You can drive any kind of vehicle");
+// } else if (age <= 10) {
+//   console.log("Your age is just 10");
+// } else {
+//   console.log("You cannot drive any kind of vehicle");
+// }
 
-var age=16
-if (age>=18) {
-    console.log("You can drive any kind of vehicle");
-}
-else if(age<=10){
-    console.log("Your age is just 10");
-}
-else{
-    console.log("You cannot drive any kind of vehicle");
-}
+// const city = "Karachi";
+// switch (city) {
+//   case "Lahore":
+//     console.log("Lahore is the best city in Country");
+//     break;
+
+//   case "Quetta":
+//     console.log("Quetta is the best city in Country");
+//     break;
+//   case "Karachi":
+//     console.log("Karachi is the best city in the Country");
+//     break;
+//   default:
+//     console.log("Islamabad is the capital of Pakistan");
+//     break;
+// }
