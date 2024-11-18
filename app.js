@@ -65,3 +65,14 @@
 //     console.log("Islamabad is the capital of Pakistan");
 //     break;
 // }
+
+// Class#52 sae continue krna hae
+// var Players=['baber','amir','imad','rizwan','fakher']
+// console.log(Players)
+
+// var cities=[1,200,85,'karachi','lahore','islambad','multan'];
+// console.log(cities.length)
+// cities = cities.sort();  // sort is not working 
+// console.log(cities);
+// cities.push("This is the push value")
+// console.log(cities)
