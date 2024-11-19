@@ -76,3 +76,27 @@
 // console.log(cities);
 // cities.push("This is the push value")
 // console.log(cities)
+
+// Class#53
+var name='Taqi'
+var name1='Naqi'
+var name2='Abiha'
+var remarks=' Is a good student'
+var abc='Good Morning'
+
+function greet(name, remarks ,abc) {
+    console.log(abc + " " + name)
+    console.log(name + remarks)
+}
+
+greet(name, remarks, abc)
+greet(name1, remarks, abc)
+greet(name2, remarks, abc)
+
+function sum(a,b,c) {
+    return(
+        d = a+b+c 
+    )
+}
+var returnvalue=sum(1,2,3)
+console.log(returnvalue)
