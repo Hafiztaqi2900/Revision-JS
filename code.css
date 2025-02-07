@@ -41,3 +41,50 @@ a:hover{
   /* background-color: aqua; */
 /* } */
 /* </style> */ 
+
+/* Font Practice */
+/* <style>
+.one{
+ text-transform: capitalize;
+ text-decoration: underline;
+ text-decoration-color:red;
+ text-decoration-style:dashed;
+}
+.two{
+ text-transform: capitalize;
+ text-decoration: underline;
+ text-decoration-color:red;
+ text-decoration-style:dotted;
+}
+.three{
+ text-transform: capitalize;
+ text-decoration: underline;
+ text-decoration-color:red;
+ text-decoration-style:double;
+}
+.four{
+ text-transform: capitalize;
+ text-decoration: underline;
+ text-decoration-color:red;
+ text-decoration-style:solid;
+}
+.five{
+ text-transform: capitalize;
+ text-decoration: underline;
+ text-decoration-color:red;
+ text-decoration-style:wavy;
+}
+p{
+ border: 2px solid blue;
+ width: 170px;
+ /* word-break: break-all; */
+ /* text-overflow: ellipsis; */
+ /* overflow: hidden; */
+/* } */
+/* </style>
+<h1 class="one">For Fonts Practice</h1>
+    <h1 class="two">For Fonts Practice</h1>
+    <h1 class="three">For Fonts Practice</h1>
+    <h1 class="four">For Fonts Practice</h1>
+    <h1 class="five">For Fonts Practice</h1>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, numquam temporibus illum vitae quis molestias. Omnis quos dolorem sequi obcaecati dicta ab voluptatum quis? At laboriosam suscipit pariatur hic, quibusdam laudantium dicta maiores necessitatibus consequuntur numquam, sequi aspernatur voluptates nihil doloribus harum impedit ipsum quasi.</p> */ 
