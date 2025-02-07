@@ -81,10 +81,25 @@ p{
  /* text-overflow: ellipsis; */
  /* overflow: hidden; */
 /* } */
-/* </style>
-<h1 class="one">For Fonts Practice</h1>
-    <h1 class="two">For Fonts Practice</h1>
-    <h1 class="three">For Fonts Practice</h1>
-    <h1 class="four">For Fonts Practice</h1>
-    <h1 class="five">For Fonts Practice</h1>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Harum, numquam temporibus illum vitae quis molestias. Omnis quos dolorem sequi obcaecati dicta ab voluptatum quis? At laboriosam suscipit pariatur hic, quibusdam laudantium dicta maiores necessitatibus consequuntur numquam, sequi aspernatur voluptates nihil doloribus harum impedit ipsum quasi.</p> */ 
+/* </style> */
+
+/* <style>
+    h1{
+      color: darkred;
+    }
+    .list1{
+      color: blue;
+    }
+    .list2{
+      color: rgb(3, 104, 170);
+    }
+    .list3{
+      color: rgba(103, 204, 70, 0.288)
+    }
+    .list4{
+      color: #710606;
+    }
+    .list5{
+      color: hsl(235, 100%, 50%);
+    }
+  </style> */
